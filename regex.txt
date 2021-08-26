@@ -1,0 +1,21 @@
+9at Cat c9t mat bat rat hat
+abcdefghijklmnopqrstuvwxyz
+ABCEDFGHIJKLMNOPQRSTUVWXYZ
+321-555-4321
+1234567890
+Ha.HaHa
+MetaCharacters {Need to be escaped}
+dndwjcnlkfencnklenlkec.com
+sanchit.mangal@gmail.com
+321-456-4567
+354.456.3456
+123*432*7584
+300-899-45363
+Mr. Schafer
+Mr Smith
+Ms Davis
+Mrs. Robinson
+Mr. T
+Mr_hello
+abhishek.gupta@gmail.com
+abhsihek@hotmail.com
